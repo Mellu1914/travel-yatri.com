@@ -4,6 +4,6 @@ Here I used <b>Html, Css & javascript</b> To create the front end part of the we
 
 URL: https://github.com/Mellu1914/travel-yatri.com
 
-https://Tour-Project-main/index.html
+
 
 
